@@ -1,12 +1,12 @@
-node-telnet
-===========
-### Telnet implementation for Node.js
-[![Build Status](https://secure.travis-ci.org/TooTallNate/node-telnet.png)](http://travis-ci.org/TooTallNate/node-telnet)
-
+Node.js Telnet
+==============
+Package Name: @existentialenso/telnet
 
 This module offers an implementation of the [Telnet Protocol (RFC854)][rfc],
 making it possible to write a telnet server that can interact with the various
 telnet features.
+
+A fork of the no longer maintained "node-telnet" project: https://github.com/TooTallNate/node-telnet
 
 ### Implemented Options:
 

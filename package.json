@@ -1,5 +1,5 @@
 {
-  "name": "telnet",
+  "name": "@existentialenso/telnet",
   "description": "Telnet implementation for Node.js",
   "keywords": [
     "telnet"
