@@ -1,6 +1,6 @@
 Node.js Telnet
 ==============
-Package Name: @existentialenso/telnet
+NPM Package: @existentialenso/telnet
 
 This module offers an implementation of the [Telnet Protocol (RFC854)][rfc],
 making it possible to write a telnet server that can interact with the various
